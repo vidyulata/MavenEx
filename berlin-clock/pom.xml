@@ -75,12 +75,12 @@
 <repository>
 <id>deployment</id>
 <name>Release</name>
-<url>http://13.126.31.251:8081/#admin/repository/repositories:MavenEx-Rel</url>
+<url>http://13.126.31.251:8081/repository/MavenEx-Rel</url>
 </repository>
 <snapshotRepository>
 <id>deployment</id>
 <name>Snapshot</name>
-<url>http://13.126.31.251:8081/#admin/repository/repositories:MavenEx-Snap</url>
+<url>http://13.126.31.251:8081/repository/MavenEx-Snap</url>
 </snapshotRepository>
 </distributionManagement>
 </project>
